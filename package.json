@@ -1,16 +1,16 @@
 {
-  "name": "@economist/component-customfonts",
+  "name": "@economist/component-css",
   "version": "1.0.0",
-  "description": "custom fonts assets",
+  "description": "css assets",
   "author": "The Economist (http://economist.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-economist-editorial/component-customfonts.git"
+    "url": "git+https://github.com/the-economist-editorial/component-css.git"
   },
-  "homepage": "https://github.com/the-economist-editorial/component-customfonts#readme",
+  "homepage": "https://github.com/the-economist-editorial/component-css#readme",
   "bugs": {
-    "url": "https://github.com/the-economist-editorial/component-customfonts/issues"
+    "url": "https://github.com/the-economist-editorial/component-css/issues"
   },
   "main": "index.js",
   "browserify": {
