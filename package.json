@@ -1,16 +1,16 @@
 {
-  "name": "@economist/component-css",
+  "name": "@economist/component-font-neutra2",
   "version": "1.0.0",
   "description": "css assets",
   "author": "The Economist (http://economist.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-economist-editorial/component-css.git"
+    "url": "git+https://github.com/the-economist-editorial/component-font-neutra2.git"
   },
-  "homepage": "https://github.com/the-economist-editorial/component-css#readme",
+  "homepage": "https://github.com/the-economist-editorial/component-font-neutra2#readme",
   "bugs": {
-    "url": "https://github.com/the-economist-editorial/component-css/issues"
+    "url": "https://github.com/the-economist-editorial/component-font-neutra2/issues"
   },
   "main": "index.js",
   "browserify": {
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@economist/component-devpack": "^1.6.0",
-    "@economist/component-devserver": "^1.6.0",
+    "@economist/component-devserver": "^1.6.1",
     "@economist/component-testharness": "^1.1.0",
     "babel": "^5.5.8",
     "babelify": "^6.1.2",
