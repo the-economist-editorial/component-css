@@ -14,6 +14,12 @@
   },
   "main": "index.css",
   "files": [
-    "*.css"
+    "*.css",
+    "assets/*"
+  ],
+  "assets": [
+  "assets/neutraface2display-bold.otf",
+  "assets/neutraface2display-medium.otf",
+  "assets/neutraface2display-titling.otf",
   ]
 }
