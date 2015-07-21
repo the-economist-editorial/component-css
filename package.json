@@ -1,6 +1,6 @@
 {
   "name": "@economist/component-font-neutra2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css assets",
   "author": "The Economist (http://economist.com)",
   "license": "ISC",
@@ -18,8 +18,8 @@
     "assets/*"
   ],
   "assets": [
-  "assets/neutraface2display-bold.otf",
-  "assets/neutraface2display-medium.otf",
-  "assets/neutraface2display-titling.otf"
+    "assets/neutraface2display-bold.otf",
+    "assets/neutraface2display-medium.otf",
+    "assets/neutraface2display-titling.otf"
   ]
 }
